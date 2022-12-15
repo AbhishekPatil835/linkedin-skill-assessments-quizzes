@@ -87,7 +87,7 @@
 
 - [ ] Designed at 3X
 - [ ] Designed for Web
-- [ ] Designed at 1X
+- [x] Designed at 1X
 - [ ] Designed at 2X
 
 #### Q13. What does this wire attached to a component indicate?
